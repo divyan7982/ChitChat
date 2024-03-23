@@ -2,7 +2,7 @@
 
 This repository contains a simple chat application built using NodeJS and Socket.io for a server-client architecture for real-time communication. It enables multiple clients to connect to a server and chat with each other in real-time through text messages.
 
-##Demo
+## Demo
 https://drive.google.com/file/d/1B2NmtvW35Feiw2A6pNBkYgmFFr3I35Fq/view?usp=sharing
 
 ## Features
